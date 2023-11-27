@@ -58,7 +58,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_AFGHANISTAN(EmojiCategory.FLAGS,1645L,"U+1F1E6 U+1F1EB","flag: Afghanistan"),
 
     /**
-     * Flag: Antigua & Barbuda.
+     * Flag: Antigua and Barbuda.
      */
     FLAG_ANTIGUA_BARBUDA(EmojiCategory.FLAGS,1646L,"U+1F1E6 U+1F1EC","flag: Antigua & Barbuda"),
 
@@ -123,7 +123,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_AZERBAIJAN(EmojiCategory.FLAGS,1658L,"U+1F1E6 U+1F1FF","flag: Azerbaijan"),
 
     /**
-     * Flag: Bosnia & Herzegovina.
+     * Flag: Bosnia and Herzegovina.
      */
     FLAG_BOSNIA_HERZEGOVINA(EmojiCategory.FLAGS,1659L,"U+1F1E7 U+1F1E6","flag: Bosnia & Herzegovina"),
 
@@ -363,7 +363,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_ALGERIA(EmojiCategory.FLAGS,1706L,"U+1F1E9 U+1F1FF","flag: Algeria"),
 
     /**
-     * Flag: Ceuta & Melilla.
+     * Flag: Ceuta and Melilla.
      */
     FLAG_CEUTA_MELILLA(EmojiCategory.FLAGS,1707L,"U+1F1EA U+1F1E6","flag: Ceuta & Melilla"),
 
@@ -508,7 +508,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_GREECE(EmojiCategory.FLAGS,1735L,"U+1F1EC U+1F1F7","flag: Greece"),
 
     /**
-     * Flag: South Georgia & South Sandwich Islands.
+     * Flag: South Georgia and South Sandwich Islands.
      */
     FLAG_SOUTH_GEORGIA_SOUTH_SANDWICH_ISLANDS(EmojiCategory.FLAGS,1736L,"U+1F1EC U+1F1F8","flag: South Georgia & South Sandwich Islands"),
 
@@ -538,7 +538,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_HONG_KONG_SAR_CHINA(EmojiCategory.FLAGS,1741L,"U+1F1ED U+1F1F0","flag: Hong Kong SAR China"),
 
     /**
-     * Flag: Heard & McDonald Islands.
+     * Flag: Heard and McDonald Islands.
      */
     FLAG_HEARD_MCDONALD_ISLANDS(EmojiCategory.FLAGS,1742L,"U+1F1ED U+1F1F2","flag: Heard & McDonald Islands"),
 
@@ -663,7 +663,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_COMOROS(EmojiCategory.FLAGS,1766L,"U+1F1F0 U+1F1F2","flag: Comoros"),
 
     /**
-     * Flag: St. Kitts & Nevis.
+     * Flag: St. Kitts and Nevis.
      */
     FLAG_ST_KITTS_NEVIS(EmojiCategory.FLAGS,1767L,"U+1F1F0 U+1F1F3","flag: St. Kitts & Nevis"),
 
@@ -963,7 +963,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_POLAND(EmojiCategory.FLAGS,1826L,"U+1F1F5 U+1F1F1","flag: Poland"),
 
     /**
-     * Flag: St. Pierre & Miquelon.
+     * Flag: St. Pierre and Miquelon.
      */
     FLAG_ST_PIERRE_MIQUELON(EmojiCategory.FLAGS,1827L,"U+1F1F5 U+1F1F2","flag: St. Pierre & Miquelon"),
 
@@ -1068,7 +1068,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_SLOVENIA(EmojiCategory.FLAGS,1847L,"U+1F1F8 U+1F1EE","flag: Slovenia"),
 
     /**
-     * Flag: Svalbard & Jan Mayen.
+     * Flag: Svalbard and Jan Mayen.
      */
     FLAG_SVALBARD_JAN_MAYEN(EmojiCategory.FLAGS,1848L,"U+1F1F8 U+1F1EF","flag: Svalbard & Jan Mayen"),
 
@@ -1108,7 +1108,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_SOUTH_SUDAN(EmojiCategory.FLAGS,1855L,"U+1F1F8 U+1F1F8","flag: South Sudan"),
 
     /**
-     * Flag: So Tom & Prncipe.
+     * Flag: So Tom and Prncipe.
      */
     FLAG_SO_TOM_PRNCIPE(EmojiCategory.FLAGS,1856L,"U+1F1F8 U+1F1F9","flag: So Tom & Prncipe"),
 
@@ -1138,7 +1138,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_TRISTAN_DA_CUNHA(EmojiCategory.FLAGS,1861L,"U+1F1F9 U+1F1E6","flag: Tristan da Cunha"),
 
     /**
-     * Flag: Turks & Caicos Islands.
+     * Flag: Turks and Caicos Islands.
      */
     FLAG_TURKS_CAICOS_ISLANDS(EmojiCategory.FLAGS,1862L,"U+1F1F9 U+1F1E8","flag: Turks & Caicos Islands"),
 
@@ -1198,7 +1198,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_TRKIYE(EmojiCategory.FLAGS,1873L,"U+1F1F9 U+1F1F7","flag: Trkiye"),
 
     /**
-     * Flag: Trinidad & Tobago.
+     * Flag: Trinidad and Tobago.
      */
     FLAG_TRINIDAD_TOBAGO(EmojiCategory.FLAGS,1874L,"U+1F1F9 U+1F1F9","flag: Trinidad & Tobago"),
 
@@ -1258,7 +1258,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_VATICAN_CITY(EmojiCategory.FLAGS,1885L,"U+1F1FB U+1F1E6","flag: Vatican City"),
 
     /**
-     * Flag: St. Vincent & Grenadines.
+     * Flag: St. Vincent and Grenadines.
      */
     FLAG_ST_VINCENT_GRENADINES(EmojiCategory.FLAGS,1886L,"U+1F1FB U+1F1E8","flag: St. Vincent & Grenadines"),
 
@@ -1288,7 +1288,7 @@ public enum EmojiCountryFlagSubCategory {
     FLAG_VANUATU(EmojiCategory.FLAGS,1891L,"U+1F1FB U+1F1FA","flag: Vanuatu"),
 
     /**
-     * Flag: Wallis & Futuna.
+     * Flag: Wallis and Futuna.
      */
     FLAG_WALLIS_FUTUNA(EmojiCategory.FLAGS,1892L,"U+1F1FC U+1F1EB","flag: Wallis & Futuna"),
 

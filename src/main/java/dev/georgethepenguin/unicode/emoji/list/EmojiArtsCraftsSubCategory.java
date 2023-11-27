@@ -28,7 +28,7 @@ package dev.georgethepenguin.unicode.emoji.list;
 import static dev.georgethepenguin.unicode.emoji.list.utils.UnicodeUtils.toPrint;
 
 /**
- * Unicode Emoji Sub-Category: Arts & Crafts.
+ * Unicode Emoji Sub-Category: Arts and Crafts.
  *
  * @author Jorge Garcia (George the Penguin).
  * @version 1.0.0-v15.1

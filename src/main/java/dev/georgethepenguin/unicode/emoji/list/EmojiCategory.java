@@ -40,7 +40,7 @@ public enum EmojiCategory {
     ACTIVITIES("Activities"),
 
     /**
-     * Animals & Nature.
+     * Animals and Nature.
      */
     ANIMALS_NATURE("Animals & Nature"),
 
@@ -55,7 +55,7 @@ public enum EmojiCategory {
     FLAGS("Flags"),
 
     /**
-     * Food & Drink.
+     * Food and Drink.
      */
     FOOD_DRINK("Food & Drink"),
 
@@ -65,12 +65,12 @@ public enum EmojiCategory {
     OBJECTS("Objects"),
 
     /**
-     * People & Body.
+     * People and Body.
      */
     PEOPLE_BODY("People & Body"),
 
     /**
-     * Smileys & Emotion.
+     * Smileys and Emotion.
      */
     SMILEYS_EMOTION("Smileys & Emotion"),
 
@@ -80,7 +80,7 @@ public enum EmojiCategory {
     SYMBOLS("Symbols"),
 
     /**
-     * Travel & Places.
+     * Travel and Places.
      */
     TRAVEL_PLACES("Travel & Places");
 

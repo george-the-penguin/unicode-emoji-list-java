@@ -28,7 +28,7 @@ package dev.georgethepenguin.unicode.emoji.list;
 import static dev.georgethepenguin.unicode.emoji.list.utils.UnicodeUtils.toPrint;
 
 /**
- * Unicode Emoji Sub-Category: Sky & Weather.
+ * Unicode Emoji Sub-Category: Sky and Weather.
  *
  * @author Jorge Garcia (George the Penguin).
  * @version 1.0.0-v15.1
